@@ -1,0 +1,39 @@
+.skill-bar .info {
+  display: flex;
+  margin-bottom: 5px;
+  justify-content: space-between;
+  font-weight: 550;
+}
+
+.skill-bar .bar {
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.199);
+  border-radius: 25px;
+  position: relative;
+  height: 8px;
+}
+
+.skill-bar .bar span {
+  width: 50%;
+  height: 8px;
+  position: absolute;
+  background-color: #a09390;
+  border-radius: 25px;
+}
+
+.skill-bar .percent {
+  font-weight: bold;
+}
+
+.skill-bar .bar span {
+  animation: html 3s;
+}
+
+@keyframes html {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 95%;
+  }
+}
