@@ -1,5 +1,5 @@
 .about {
-  padding: 10.5rem 0;
+  padding: 8.5rem 0;
   background-color: #fff;
 }
 
@@ -70,6 +70,7 @@
   font-size: 1.18rem;
   font-weight: 500;
   line-height: 1.5;
+  padding-top: 1rem;
 }
 
 @media (max-width: 768px) {
@@ -90,7 +91,7 @@
 }
 
 .button-40 {
-  margin-top: 0.2rem;
+  margin-top: 1.2rem;
   background-color: #111827;
   border: 1px solid transparent;
   border-radius: 0.75rem;

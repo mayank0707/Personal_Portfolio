@@ -34,12 +34,11 @@ const AboutMe = () => {
           <h1>About Me</h1>
           <AboutBox details={details} />
           <p>
-            As a Associate Software Developer, I possess an impressive arsenal
-            of skills in HTML, CSS, JavaScript, React. I excel in designing
-            and maintaining react applications that offer a smooth user
-            experience. My expertise lies in crafting dynamic, engaging
-            interfaces through writing clean and optimized code and utilizing
-            cutting-edge development tools and techniques.
+            Software engineer with a passion for developing innovative solutions.
+            Proven success in building strong applications, resolving critical
+            bugs, and contributing to high-impact project. Excited to utilize 
+            technical expertise and collaborative skills to drive excellence in
+            software development.
           </p>
           <button className={classes["button-40"]}>
             <a download="" href="">
