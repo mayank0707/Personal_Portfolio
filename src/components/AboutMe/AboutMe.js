@@ -1,26 +1,15 @@
 import classes from "./AboutMe.module.css";
 import image from "../Images/about-image.webp";
 import award from "../Images/award-solid-24.png";
-import brief from "../Images/case.png";
 import AboutBox from "./AboutBox";
-import support from "../Images/support.png";
+import resume from "../Pdf/Mayank_Gupta-Resume.pdf"
 
 const details = [
   {
     name: "Experience",
     icon: award,
     details: "1+ Years",
-  },
-  {
-    name: "Completed",
-    icon: brief,
-    details: "2+ Projects",
-  },
-  {
-    name: "Available",
-    icon: support,
-    details: "24 X 7",
-  },
+  }
 ];
 
 const AboutMe = () => {
@@ -41,7 +30,7 @@ const AboutMe = () => {
             software development.
           </p>
           <button className={classes["button-40"]}>
-            <a download="" href="">
+            <a download href={resume}>
               Download CV
               <svg
                 className={classes["button_icon"]}
