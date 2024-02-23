@@ -2,7 +2,7 @@ import classes from "./AboutMe.module.css";
 import image from "../Images/about-image.webp";
 import award from "../Images/award-solid-24.png";
 import AboutBox from "./AboutBox";
-import resume from "../Pdf/Mayank_Gupta-Resume.pdf"
+import resume from "../Pdf/Mayank_Resume.pdf"
 
 const details = [
   {
