@@ -1,8 +1,9 @@
 .details {
   font-family: Poppins, sans-serif;
   gap: 2rem;
+  display: flex;
   justify-content: space-around;
-  margin-bottom: 7.2px;
+  margin-bottom: 7px;
 }
 
 @media (max-width: 500px) {
