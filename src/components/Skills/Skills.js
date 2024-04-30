@@ -5,23 +5,23 @@ const Skills = () => {
   const skills = [
     {
       id: 1,
-      name: "React",
-      percentage: 60,
+      name: "React.js",
+      percentage: 80,
     },
     {
       id: 2,
-      name: "Java",
-      percentage: 65,
+      name: "Node.js",
+      percentage: 70,
     },
     {
       id: 3,
-      name: "MySQL",
-      percentage: 75,
+      name: "Express.js",
+      percentage: 60,
     },
     {
       id: 4,
       name: "Javascript",
-      percentage: 65,
+      percentage: 75,
     },
     {
       id: 5,
@@ -32,6 +32,36 @@ const Skills = () => {
       id: 6,
       name: "CSS",
       percentage: 45,
+    },
+    {
+      id: 7,
+      name: "Mongo DB",
+      percentage: 70,
+    },
+    {
+      id: 8,
+      name: "MySQL",
+      percentage: 85,
+    },
+    {
+      id: 9,
+      name: "SQL Server",
+      percentage: 85,
+    },
+    {
+      id: 10,
+      name: "Java",
+      percentage: 70,
+    },
+    {
+      id: 11,
+      name: "C#",
+      percentage: 70,
+    },
+    {
+      id: 12,
+      name: ".Net Core",
+      percentage: 65,
     }
   ];
 
