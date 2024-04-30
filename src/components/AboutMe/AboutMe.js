@@ -4,7 +4,7 @@ import award from "../Images/award-solid-24.png";
 import support from "../Images/support.png";
 import brief from "../Images/case.png";
 import AboutBox from "./AboutBox";
-import resume from "../Pdf/Mayank_Resume.pdf"
+import resume from "../Pdf/Mayank-Resume-1.pdf"
 
 const details = [
   {
@@ -15,7 +15,7 @@ const details = [
   {
     name: "Completed",
     icon: brief,
-    details: "2+ Projects",
+    details: "3+ Projects",
   },
   {
     name: "Available",
