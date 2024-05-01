@@ -11,7 +11,7 @@
 }
 @media (max-width: 500px) {
   .home {
-    padding: 0rem 3rem;
+    padding: 0rem 1.5rem;
     height: auto;
   }
 }
