@@ -11,7 +11,9 @@
 }
 @media (max-width: 500px) {
   .home {
-    padding: 0rem 1.5rem;
+    display: flex;
+    justify-content: center;
+    padding: 0rem 1rem;
     height: auto;
   }
 }
