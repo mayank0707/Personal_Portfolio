@@ -4,7 +4,7 @@ import award from "../Images/award-solid-24.png";
 import support from "../Images/support.png";
 import brief from "../Images/case.png";
 import AboutBox from "./AboutBox";
-import resume from "../Pdf/Mayank-Gupta-Resume.pdf"
+import resume from "../Pdf/Mayank-Resume-1.pdf"
 
 const details = [
   {

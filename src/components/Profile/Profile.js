@@ -1,10 +1,6 @@
 import { Fragment } from "react";
 import classes from "./Profile.module.css";
-import Html from "../Images/html.png";
-import css3 from "../Images/css3.png";
-import Js from "../Images/javascript.png";
 import Waving from "../Images/waving.png";
-import react from "../Images/react.png"
 
 const Profile = () => {
   return (

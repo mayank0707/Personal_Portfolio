@@ -25,18 +25,18 @@ const Skills = () => {
     },
     {
       id: 5,
+      name: "Java",
+      percentage: 75,
+    },
+    {
+      id: 6,
       name: "HTML",
       percentage: 70,
     },
     {
-      id: 6,
-      name: "CSS",
-      percentage: 45,
-    },
-    {
       id: 7,
-      name: "Mongo DB",
-      percentage: 70,
+      name: "CSS",
+      percentage: 60,
     },
     {
       id: 8,
@@ -46,22 +46,7 @@ const Skills = () => {
     {
       id: 9,
       name: "SQL Server",
-      percentage: 85,
-    },
-    {
-      id: 10,
-      name: "Java",
-      percentage: 70,
-    },
-    {
-      id: 11,
-      name: "C#",
-      percentage: 70,
-    },
-    {
-      id: 12,
-      name: ".Net Core",
-      percentage: 65,
+      percentage: 75,
     }
   ];
 
